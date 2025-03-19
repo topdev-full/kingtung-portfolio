@@ -8,6 +8,5 @@ export const personalData = {
   address: 'Mykolaiv, Mykolaivska, Ukraine',
   github: 'https://github.com/diamond120',
   linkedIn: 'https://www.linkedin.com/in/vladyslav-kreitor/',
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1bM9wQro8_ips3fjsKvzl5og1m3q7pslL/view?usp=sharing"
 }
