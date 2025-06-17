@@ -6,7 +6,7 @@ export const personalData = {
   email: 'kingtungy@gmail.com',
   whatsapp: '+1 (223) 533-6822',
   telegram: 'https://t.me/alphabeta_456',
-  address: 'Mykolaiv, Mykolaivska, Ukraine',
+  address: 'Sha Tin District, Hong Kong SAR',
   github: 'https://github.com/diamond120',
   linkedIn: 'https://www.linkedin.com/in/king-tung-yeung/'
 }

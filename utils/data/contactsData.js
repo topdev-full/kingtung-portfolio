@@ -1,6 +1,5 @@
 export const contactsData = {
     email: 'kingtungy@gmail.com',
-    phone: '+380993824968',
-    address: 'Mykolaiv, Mykolaivska, Ukraine',
+    address: 'Sha Tin District, Hong Kong SAR',
     github: 'https://github.com/diamond120',
 }
